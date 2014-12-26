@@ -1,0 +1,191 @@
+#header-user-profile {
+  display: -webkit-box;
+}
+
+#search-text {
+  padding: 8px 10px 0 15px;
+}
+
+#header-img-profile {
+  margin-top: 5px;
+}
+#header-user-profile {
+  padding: 6px 10px 0 15px;
+}
+
+#header-user-profile a {
+  padding: 0;
+  display: table-row;
+  height: initial;
+  line-height: 20px;
+}
+
+#user-logout {
+  font-size: 12px;
+  text-decoration: underline;
+}
+
+body > .sidebar, .st-container > .sidebar {
+  top: 110px;
+}
+
+#subnav .navbar-nav,
+.navbar-subnav .navbar-nav {
+  margin-left: 133px;
+}
+
+.navbar-subnav.navbar-fixed-top {
+  top: 60px;
+}
+
+#subnav {
+  top: 50px;
+  background: #303030;
+  color: #000000;
+}
+#subnav .active>a, #subnav .open>a, #subnav a:hover {
+  background: #aaaaaa;
+}
+
+#toggle-sidebar-menu {
+  float: left;
+  height: 56px;
+  display: inline-block;
+  font-size: 20px;
+  background: #542A5E;
+  border: 1px solid #555;
+  color: #fff;
+  left: 0;
+  margin-top: 4em;
+  padding: 0.5em 1em 0.5em 3em;
+  position: fixed;
+  top: 15em;
+  transform: rotate(-90deg);
+  transform-origin: left top 0;
+  -moz-transform:rotate(-90deg);
+  -o-transform:rotate(-90deg);
+  -webkit-transform:rotate(-90deg);
+
+  z-index: 1000;
+}
+
+#toggle-sidebar-menu > span {
+  border-top: 1px solid #555;
+  left: 0;
+  line-height: 2.4;
+  position: absolute;
+  top: 0;
+  width: 2em;
+}
+
+a#toggle-sidebar-menu:hover {
+  text-decoration: none;
+}
+
+#content {
+  top: 50px;
+  position: relative;
+}
+
+#content .sidebar {
+  top: 110px;
+}
+
+#quicktabs-commons_bw .node h2 {
+    padding-left: 35px;
+    display: -webkit-inline-box;
+
+}
+
+#quicktabs-commons_bw .node .submitted,
+#quicktabs-commons_bw .node .content,
+#quicktabs-commons_bw .node .links {
+  margin-left: 90px;
+}
+
+.message .user-picture {
+  width: 50px;
+  position: relative;
+  float: left;
+}
+
+.user-picture img {
+  border: 0.2em solid #aaaaaa;
+}
+
+.message p {
+  padding-left: 90px;
+}
+
+.timeago {
+  border: 1px solid #aaaaaa;
+  position: relative;
+  float: left;
+}
+
+.views-field-timestamp {
+  padding: 5px 0;
+}
+
+#toggle-sidebar-menu .fa-indent {
+  transform: rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -o-transform:rotate(90deg);
+  -webkit-transform:rotate(90deg);
+}
+
+.sidebar a.fa {
+  color: #aaaaaa;
+  font-size: 1.5em;
+  position: relative;
+  float: right;
+  margin-top: 15px;
+  text-decoration: none;
+}
+
+.sidebar a:hover {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.sidebar {
+  overflow-x: auto;
+  outline: none;
+}
+
+.img-square {
+  border: 5px solid #dfdfdf
+}
+
+/* banner */
+.banner {
+  background: #cccccc;
+  display: block;
+  text-align: center;
+}
+.banner700-90 {
+  width: 700px;
+  height: 90px;
+  padding-top: 35px;
+}
+.banner220-200 {
+  width: 220px;
+  height: 200px;
+  padding-top: 85px;
+}
+#banner-top {
+  margin: 40px auto;
+
+}
+#banner-right {
+  margin: 40px auto;
+}
+
+
+.sidebar-block .category{
+  padding-left: 0 !important;
+}
+
+.menu .fa:before {
+  margin-right: 8px;
+}
